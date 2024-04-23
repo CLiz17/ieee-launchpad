@@ -2,7 +2,9 @@
 
 ### About Me
 
-> I'm a Tech Enthusiast and a Web & ML Developer. I started by creating portfolio websites for my clients, and that's where my journey in web development began. I've been through the deployment cycle from idea conception to design, coding, and deployment. I've experimented with various languages and frameworks, and I'm proficient in C++, JavaScript, and Python. My go-to framework is React. I've been a Linux user from the beginning and have tried multiple Linux distributions, but I've settled on Pop!_OS. I am a part of the Kerala Police Cyberdome project called Grapnel. I enjoy working within communities and have been involved in numerous community projects both in and out of college
+> I'm a Tech Enthusiast and a Web & ML Developer. I started by creating portfolio websites for my clients, and that's where my journey in web development began. I've been through the deployment cycle from idea conception to design, coding, and deployment. I've experimented with various languages and frameworks, and I'm proficient in `C++`, `JavaScript`, and `Python`. My go-to framework is `React`. I've been a Linux user from the beginning and have tried multiple Linux distributions, but I've settled on `Pop!_OS`. I am a part of the Kerala Police Cyberdome project called Grapnel. I enjoy working within communities and have been involved in numerous community projects both in and out of college
+
+---
 
 ## My Projects
 
@@ -52,3 +54,8 @@
 #### Competitive Website Profiles:
 
 - Active member on HackerRank with a ranking of 1k for Problem Solving.
+  
+
+>> [chaitanyalizr.t@mulearn.md](./profile/chaitanyalizr.t@mulearn.md) for more.
+
+---
